@@ -16,10 +16,10 @@
   ],
   "peerDependencies": {
     "koishi": "^4.18.8",
-    "koishi-plugin-filemanager": "^0.0.1"
+    "koishi-plugin-filemanager": "^0.0.2"
   },
   "devDependencies": {
-    "koishi-plugin-filemanager": "^0.0.1"
+    "koishi-plugin-filemanager": "^0.0.2"
   },
   "koishi": {
     "service": {
